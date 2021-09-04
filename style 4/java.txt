@@ -1,7 +1,6 @@
 java
 1.loop for while do while, nested for loop
-2.if else, else if, 
-3.inheritance
+2.if else, e
   1. 
   2.
   3.
