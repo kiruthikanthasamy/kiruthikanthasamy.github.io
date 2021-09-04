@@ -1,0 +1,24 @@
+java
+1.loop for while do while, nested for loop
+2.if else, else if, 
+3.inheritance
+  1. 
+  2.
+  3.
+  4.
+  5.
+4. constructor
+   constructor 
+   destructor
+5. oops 
+   1 object
+   2.class
+   3.inheritance 
+   4.abstraction
+   5.polymorphism
+   6.encapsulation
+   7. 
+
+
+  
+
